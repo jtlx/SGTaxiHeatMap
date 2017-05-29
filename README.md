@@ -1,4 +1,9 @@
-# SGTaxiHeatMap
+# Singaore Taxi Heatmap
+
+<p align="center" style="padding:25px">
+  <img src="img/map.jpg" width="700"><br>
+</p>
+
 Visualize LTA's Taxi Availability Data with a heat map
 
 
